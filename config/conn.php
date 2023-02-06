@@ -1,9 +1,9 @@
 <?php
 //PDO connection
-$db_host = 'localhost';
-$db_user = 'root';
-$db_password = 'root';
-$db_db = 'watergroep';
+$db_host = 'ID396978_funcprog.db.webhosting.be';
+$db_user = 'ID396978_funcprog';
+$db_password = '57tF16BY81835Y7OM32O';
+$db_db = 'ID396978_funcprog';
 $dsn = 'mysql:host=' . $db_host . ';dbname=' . $db_db;
 
 try {
